@@ -1,6 +1,7 @@
 // Coding Challenge 2024 5/366
-// Even or Odd
+// Multiply
 // https://www.codewars.com/kata/50654ddff44f800200000004
+// 8 kyu
 
 // function multiply(a, b) {
 //   return a * b;

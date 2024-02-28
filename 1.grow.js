@@ -1,6 +1,7 @@
 // Coding Challenge 2024 1/366
 // Multiply all indexes inside array;
 // https://www.codewars.com/kata/57f780909f7e8e3183000078
+// 8 kyu
 
 // function grow(x) {
 //   let result = x[0];

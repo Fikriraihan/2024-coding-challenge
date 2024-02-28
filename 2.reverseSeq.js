@@ -1,6 +1,7 @@
 // Coding Challenge 2024 2/366
 // Reverse Sequence
 // https://www.codewars.com/kata/5a00e05cc374cb34d100000d/
+// 8 kyu
 
 // const reverseSeq = (n) => {
 //   let arr = [];

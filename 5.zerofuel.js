@@ -1,6 +1,7 @@
 // Coding Challenge 2024 5/366
 // Sentence Smash
 // https://www.codewars.com/kata/5861d28f124b35723e00005e/train/javascript
+// 8 kyu
 
 // function zeroFuel(distanceToPump, mpg, fuelLeft) {
 //   if (distanceToPump / mpg <= fuelLeft) {

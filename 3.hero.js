@@ -1,6 +1,7 @@
 // Coding Challenge 2024 3/366
 // Is He Gonna Survive?
 // https://www.codewars.com/kata/59ca8246d751df55cc00014c
+// 8 kyu
 
 // function hero(bullets, dragons) {
 //     if (bullets >= 2 * dragons) {
