@@ -1,4 +1,4 @@
-// Coding Challenge 2024 5/366
+// Coding Challenge 2024 7/366
 // Count By X
 // https://www.codewars.com/kata/5513795bd3fafb56c200049e
 // 8 kyu

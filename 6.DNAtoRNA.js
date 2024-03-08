@@ -1,4 +1,4 @@
-// Coding Challenge 2024 5/366
+// Coding Challenge 2024 6/366
 // DNA to RNA
 // https://www.codewars.com/kata/5556282156230d0e5e000089
 // 8 kyu
