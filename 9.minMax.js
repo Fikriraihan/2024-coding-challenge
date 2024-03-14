@@ -1,3 +1,8 @@
+// Coding Challenge 2024 9/366
+// Min Max
+// https://www.codewars.com/kata/577a98a6ae28071780000989
+// 8 kyu
+
 // var min = function (list) {
 //   list.sort((x, y) => x - y);
 //   return list[0];
