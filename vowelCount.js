@@ -9,8 +9,10 @@
 //   }
 //   return words.split("").length;
 // }
-function getCount(str) {
-  return str.split("").filter((i) => i === "a" || i === 'e').length;
-}
+// function getCount(str) {
+//   return str.split("").filter((i) => i === "a" || i === 'e').length;
+// }
+const getCount = (str) => str.match(/[aiueo]/gi)?.length || 0;
 
 console.log(getCount("abracadabreaeea"));
+console.log(getCount("my pyx"));
