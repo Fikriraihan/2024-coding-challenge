@@ -35,14 +35,15 @@ function high(x) {
     arr.push(element);
   }
   const arrNumber = arr.map((i) => i.map((j) => charMap[j]).reduce((acc, x) => acc + x));
+  console.log(arrNumber);
   const max = Math.max(...arrNumber);
   const index = arrNumber.indexOf(max);
   return arr[index].join("");
 }
 
-function high(s) {
-  return s.split(" ").map((s) => [...s].reduce((a, b) => a + b.charCodeAt() - 96, 0));
-}
+// function high(s) {
+//   return s.split(" ").map((s) => [...s].reduce((a, b) => a + b.charCodeAt() - 96, 0));
+// }
 
 console.log(high("man i need a taxi up to ubud"));
 console.log(high("what time are we climbing up the volcano"));

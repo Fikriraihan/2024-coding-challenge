@@ -7,6 +7,7 @@ var map = function (arr, fn) {
   for (const i in arr) {
     res.push(fn(arr[i], Number(i)));
   }
+  console.log(res);
   return res;
 };
 
